@@ -110,7 +110,6 @@ public class LibraryTest {
     }
 
     @Test
-
     public void testInput2AndWrong2AndPrintScore(){
         String inputString =
             "1\n"
